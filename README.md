@@ -30,21 +30,15 @@ Review what make and model has the lowest injuries attributed to them.
 
 - We graphed the the top 5 states with most injuries.
 
-![image.png](Images/States.pdf)
-
-Seeing that the top states CA, TX and FL.
+- Seeing that the top states CA, TX and FL.
 
 - Then graphed to see what type of injury was most common from accidents.
 
-![image.png](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Images/Injury_Accidents.pdf)
-
-Unfortunately, fatal is the most common type of injury from private airplane accidents.
+- Unfortunately, fatal is the most common type of injury from private airplane accidents.
 
 - Finally, graphed to see what make of airplane was responsible for the most amount of injuries. Excluding uninjuried.
 
-Images/Top_5.pdf
-
-Mooney and Cirrus and considerably lower than their counterparts.
+- Mooney and Cirrus and considerably lower than their counterparts.
 
 ## Recommendation - Saftey, Popularity  and Cost ##
 
