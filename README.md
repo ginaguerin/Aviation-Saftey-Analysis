@@ -30,7 +30,7 @@ Review what make and model has the lowest injuries attributed to them.
 
 - We graphed the the top 5 states with most injuries.
 
-Images/States.pdf
+![image.png](Images/States.pdf)
 
 Seeing that the top states CA, TX and FL.
 
