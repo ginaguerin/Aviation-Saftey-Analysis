@@ -4,7 +4,7 @@
     
 </center>
 
-![image.png](attachment:image.png)
+![image.png](https://upload.wikimedia.org/wikipedia/commons/b/bf/Mooney.m20j.g-muni.arp.jpg)
 
 
 ## Task ##
@@ -101,10 +101,10 @@ Please review full analysis in our [Jupyter Notebook](https://github.com/ginague
 
 - This is the ReadME.md
 - This is the [Index.ipynd](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Index.ipynb) Showing the breakdown of our anaylsis and the code.
-This is the [Slides](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Final.Slides.pptx) showing the presentation for our analysis.
+- This is the [Slides](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Final.Slides.pptx) showing the presentation for our analysis.
 - This is the [Data](https://github.com/ginaguerin/Aviation-Saftey-Analysis/tree/master/data) we worked with as well as our filtered data.
 - This is the [Tableau Dashboard](https://public.tableau.com/app/profile/gina.guerihn/viz/PrivateAviationAnalysis/Dashboard1) we created from our filtered data.
-- This is the [Images]() Showing the graphs and tableau graphs from our analysis.
+- This is the [Images](https://github.com/ginaguerin/Aviation-Saftey-Analysis/tree/master/Images) Showing the graphs and tableau graphs from our analysis.
 
 
 
@@ -118,15 +118,3 @@ This is the [Slides](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob
 
 - [Fly Aeolus](https://flyaeolus.com/blog/buying-a-small-airplanes-5-cheap-airplanes-that-offer-quality/)
 
-
-
-
-
-
-
-
-
-https://www.planeandpilotmag.com/article/10-cheapest-birds-in-the-sky/
-
-
-https://flyaeolus.com/blog/buying-a-small-airplanes-5-cheap-airplanes-that-offer-quality/
