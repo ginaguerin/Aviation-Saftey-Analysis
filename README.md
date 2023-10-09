@@ -30,36 +30,19 @@ Review what make and model has the lowest injuries attributed to them.
 
 - We graphed the the top 5 states with most injuries.
 
-()
+Images/States.pdf
 
 Seeing that the top states CA, TX and FL.
 
 - Then graphed to see what type of injury was most common from accidents.
 
-injuries = df_copy[["Fatal.Injuries", "Serious.Injuries", "Minor.Injuries"]].sum()
-
-labels = ["Fatal Injuries", "Serious Injuries", "Minor Injuries"]
-values = injuries.values
-
-plt.bar(labels, values) 
-plt.xlabel("Injury Type")
-plt.ylabel("Number of Injuries")
-plt.title("Number of Injuries in Accidents")
-plt.show()
+Images/Injury_Accidents.pdf
 
 Unfortunately, fatal is the most common type of injury from private airplane accidents.
 
 - Finally, graphed to see what make of airplane was responsible for the most amount of injuries. Excluding uninjuried.
 
-filtered_df = df_copy[df_copy['Uninjured'] == 0] 
-top_makes = filtered_df['Make'].value_counts().head(5)
-
-plt.bar(top_makes.index, top_makes.values)
-plt.xlabel('Makes')
-plt.ylabel('Number of Injuries')
-plt.title('Top 5 Makes and Injuries (excluding Uninjured)')
-plt.xticks(rotation=45)
-plt.show()
+Images/Top_5.pdf
 
 Mooney and Cirrus and considerably lower than their counterparts.
 
