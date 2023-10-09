@@ -30,20 +30,7 @@ Review what make and model has the lowest injuries attributed to them.
 
 - We graphed the the top 5 states with most injuries.
 
-state_accidents = df_copy.groupby("State")["Accidents"].count()
-
-sorted_states = state_accidents.sort_values(ascending = False)
-
-top_5 = sorted_states.head(5)
-
-
-plt.bar(top_5.index, top_5.values)
-
-plt.xlabel("State")
-plt.ylabel("Accidents")
-plt.title("States with Highest Accidents")
-
-plt.show()
+()
 
 Seeing that the top states CA, TX and FL.
 
