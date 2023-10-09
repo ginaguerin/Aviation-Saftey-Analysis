@@ -36,7 +36,7 @@ Seeing that the top states CA, TX and FL.
 
 - Then graphed to see what type of injury was most common from accidents.
 
-Images/Injury_Accidents.pdf
+https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Images/Injury_Accidents.pdf
 
 Unfortunately, fatal is the most common type of injury from private airplane accidents.
 
