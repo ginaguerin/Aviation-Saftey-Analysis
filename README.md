@@ -76,7 +76,7 @@ Please review full analysis in our [Jupyter Notebook](https://github.com/ginague
 
 - This is the ReadME.md
 - This is the [Index.ipynd](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Index.ipynb) Showing the breakdown of our anaylsis and the code.
-- This is the [Slides](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Final.Slides.pptx) showing the presentation for our analysis.
+- This is the [Slides](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Final.Slides%20(1).pptx) showing the presentation for our analysis.
 - This is the [Data](https://github.com/ginaguerin/Aviation-Saftey-Analysis/tree/master/data) we worked with as well as our filtered data.
 - This is the [Tableau Dashboard](https://public.tableau.com/app/profile/gina.guerihn/viz/PrivateAviationAnalysis/Dashboard1) we created from our filtered data.
 - This is the [Images](https://github.com/ginaguerin/Aviation-Saftey-Analysis/tree/master/Images) Showing the graphs and tableau graphs from our analysis.
