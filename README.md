@@ -30,7 +30,7 @@ Review what make and model has the lowest injuries attributed to them.
 
 - We graphed the the top 5 states with most injuries.
 
-![Alt text](<States (2).jpg>)
+![Alt text](<https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Images/States%20(2).jpg?raw=true>)
 
 
 
@@ -38,7 +38,7 @@ Review what make and model has the lowest injuries attributed to them.
 
 - Then graphed to see what type of injury was most common from accidents.
 
-![Alt text](<Injury_Accidents (1).jpg>)
+![Alt text](<https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Images/Injury_Accidents%20(1).jpg?raw=true>)
 
 
 
@@ -46,7 +46,7 @@ Review what make and model has the lowest injuries attributed to them.
 
 - Finally, graphed to see what make of airplane was responsible for the most amount of injuries. Excluding uninjuried.
 
-![Alt text](Top_5.jpg)
+![Alt text](https://github.com/ginaguerin/Aviation-Saftey-Analysis/blob/master/Images/Top_5.jpg?raw=true)
 
 
 - Mooney and Cirrus and considerably lower than their counterparts.
@@ -93,3 +93,10 @@ Please review full analysis in our [Jupyter Notebook](https://github.com/ginague
 
 - [Fly Aeolus](https://flyaeolus.com/blog/buying-a-small-airplanes-5-cheap-airplanes-that-offer-quality/)
 
+```
+├── Data                             <- Data file used in this project
+├── Images                           <- Images and Graphs used in this project obtained from external and internal source
+├── .gitignore                       <- Contains list of files to be ignored from GitHub
+├── Slides.pdf                 <- Slide Presentation of the project
+├── README.md                        <- Contains README file to be reviewed
+└── Notebook.ipynb                   <- Jupyter notebook of the project containing codes and analysis```
